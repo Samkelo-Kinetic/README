@@ -1,1 +1,1 @@
-Testing a simple Java text
+Testing a simple project developed in Java.
