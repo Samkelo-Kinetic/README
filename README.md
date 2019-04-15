@@ -5,14 +5,16 @@ Following the steps below will ensure a smooth mobile functional-testing environ
 
 # TOOLS NEEDED IN SEQUENTIAL MANNER
 
- # java, jdk and jre
- # android studio
- # appium
- # appium doctor
- # pipenv
- # toolium
- # chromedriver
- # enymotion(emulators)
+| Tools           |
+| -------------    |
+| java, jdk and jre|        
+| android studio   |
+| appium           | 
+|appium-doctor     |
+|pipenv            |
+|toolium           |
+|chromedriver      |
+|genymotion(genymotion|
  
 install node.js without using sudo(poweruser)
   
@@ -131,19 +133,16 @@ Step 5. Select Android virtual device available to install from the list
 Step 6. Install virtual device you prefer
 
 
-Testing how to make a table in a readmefile
 
-| Tables        | Are           | Cool   |
-| ------------- |:-------------:| -----: |
-| bonga         | sam           |xolani  |       
-| kwennie       | darren        | rowan  |
-| kids          | kids          | kids   |
- 
-Testing how to make a checklist in readmefile 
-- [x] login feature--
-- [x] register feature
-- [ ] forms feature
-- [ ] burns feature
-- [x] ophathalmolgy feature
+Todo: Features
+- [ ] Register and login feature--
+- [ ] Login and Reset password feature
+- [ ] Check Menu
+- [ ] Check Patient List feature
+- [ ] Start Referral 
+- [ ] On-call / off-duty indicator
+- [ ] Burns Referral form
+- [ ] ophathalmolgy Referral feature
+- [ ] Other basic forms
 
 
