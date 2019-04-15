@@ -1,4 +1,4 @@
-# FUNCTIONAL-TESTING TOOLS ON UBUNTU OS
+# FUNCTIONAL-TESTING ON LOCAL-MACHINE ENVIRONMENT SETUP, UBUNTU OS. 
 
 Following the steps below will ensure a smooth mobile functional-testing environment.
 
