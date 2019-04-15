@@ -2,7 +2,7 @@
 
 Following the steps below will ensure a smooth mobile functional-testing environment.
 
-Functions tested
+Functions to be tested
 - [ ] Register and login feature--
 - [ ] Login and Reset password feature
 - [ ] Check Menu
