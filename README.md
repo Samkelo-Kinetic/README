@@ -13,9 +13,3 @@ Testing how to make a table in a readmefile
 - [x] ophathalmolgy feature
 
 
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
