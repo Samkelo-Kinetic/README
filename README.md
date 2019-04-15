@@ -7,7 +7,7 @@ Testing how to make a table in a readmefile
 | kids          | kids          | kids   |
 
 - [x] login feature--
-- [ ] register feature
+- [x] register feature
 - [ ] forms feature
 - [ ] burns feature
 - [x] ophathalmolgy feature
