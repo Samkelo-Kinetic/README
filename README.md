@@ -14,7 +14,7 @@ Following the steps below will ensure a smooth mobile functional-testing environ
 |pipenv            |
 |toolium           |
 |chromedriver      |
-|genymotion(genymotion|
+|genymotion(emulator]
  
 install node.js without using sudo(poweruser)
   
