@@ -5,14 +5,14 @@ Following the steps below will ensure a smooth mobile functional-testing environ
 
 # TOOLS NEEDED IN SEQUENTIAL MANNER
 
-# java, jdk and jre
-# android studio
-# appium
-# appium doctor
-# pipenv
-# toolium
-# chromedriver
-# Genymotion(emulators)
+ java, jdk and jre
+ android studio
+ appium
+ appium doctor
+ pipenv
+ toolium
+ chromedriver
+ Genymotion(emulators)
  
 install node.js without using sudo(poweruser)
   
