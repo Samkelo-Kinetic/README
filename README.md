@@ -4,8 +4,7 @@ Following the steps below will ensure a smooth mobile functional-testing environ
 
 
 # TOOLS NEEDED IN SEQUENTIAL MANNER
- ===================================================================================
- *node.js
+
  *java, jdk and jre
  *android studio
  *appium
