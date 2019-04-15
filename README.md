@@ -4,7 +4,7 @@ Testing how to make a table in a readmefile
 | ------------- |:-------------:| -----: |
 | bonga         | sam           |xolani  |       
 | kwennie       | darren        | rowan  |
-| kids          |  kids         | kids   |
+| kids          | kids          | kids   |
 
 - [x] login feature--
 - [ ] register feature
