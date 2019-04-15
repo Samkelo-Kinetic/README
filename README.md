@@ -95,7 +95,7 @@ sudo chmod +x "/usr/local/bin/chromedriver"
 rm -f "chromedriver"
 rm -f "chromedriver_linux64.zip"
 
-To ensure chromedriver is successfully installed check on the terminal wih the below command:
+To ensure chromedriver is successfully installed check on the terminal with the below command:
 
     *which chromedriver
 
