@@ -3,7 +3,7 @@
 Following the steps below will ensure a smooth mobile functional-testing environment.
 
 
-# TOOLS NEEDED IN SEQEUNTIAL MANNER
+# TOOLS NEEDED IN SEQUENTIAL MANNER
  ===================================================================================
  
 install node.js without using sudo(poweruser)
