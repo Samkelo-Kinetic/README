@@ -1,4 +1,4 @@
-# FUNCTIONAL-TESTING SETUP TOOLS ON UBUNTU OS
+# FUNCTIONAL-TESTING TOOLS ON UBUNTU OS
 
 Following the steps below will ensure a smooth mobile functional-testing environment.
 
