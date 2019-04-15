@@ -2,6 +2,19 @@
 
 Following the steps below will ensure a smooth mobile functional-testing environment.
 
+Todo: Features
+- [ ] Register and login feature--
+- [ ] Login and Reset password feature
+- [ ] Check Menu
+- [ ] Check Patient List feature
+- [ ] Start Referral 
+- [ ] On-call / off-duty indicator
+- [ ] Burns Referral form
+- [ ] ophathalmolgy Referral feature
+- [ ] Other basic forms
+
+
+
 
 # TOOLS NEEDED IN SEQUENTIAL MANNER
 
@@ -131,18 +144,5 @@ Step 4. Open Genymotion and create virtual device first
 Step 5. Select Android virtual device available to install from the list
 
 Step 6. Install virtual device you prefer
-
-
-
-Todo: Features
-- [ ] Register and login feature--
-- [ ] Login and Reset password feature
-- [ ] Check Menu
-- [ ] Check Patient List feature
-- [ ] Start Referral 
-- [ ] On-call / off-duty indicator
-- [ ] Burns Referral form
-- [ ] ophathalmolgy Referral feature
-- [ ] Other basic forms
 
 
