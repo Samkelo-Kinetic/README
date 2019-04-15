@@ -6,7 +6,7 @@ Testing how to make a table in a readmefile
 | kwennie       | darren        | rowan  |
 | kids          |  kids         | kids   |
 
-- [ ] login feature--
+- [x] login feature--
 - [ ] register feature
 - [ ] forms feature
 - [ ] burns feature
