@@ -26,7 +26,6 @@ Functions to be tested
 |appium-doctor     |
 |pipenv            |
 |toolium           |
-|chromedriver      |
 |genymotion(emulators)|
  
 install node.js without using sudo(poweruser)
@@ -106,21 +105,6 @@ On the terminal check the success of the installation by the following command
      * sudo -H pip install toolium
      * sudo -H pip install git+https://github.com/behave/behave
      
-# Install chromedriver 
-
-Your current directory should be "$HOME" as illustrated below:
-
-cd "$HOME"
-wget -O "chromedriver_linux64.zip" "https://chromedriver.storage.googleapis.com/2.37/chromedriver_linux64.zip"
-unzip -o "chromedriver_linux64.zip"
-sudo cp "chromedriver" "/usr/local/bin/chromedriver"
-sudo chmod +x "/usr/local/bin/chromedriver"
-rm -f "chromedriver"
-rm -f "chromedriver_linux64.zip"
-
-To ensure chromedriver is successfully installed check on the terminal with the below command:
-
-    *which chromedriver
 
 # Steps to install Genymotion (Android Emulator)
    
