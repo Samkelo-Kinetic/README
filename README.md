@@ -6,7 +6,7 @@ Testing how to make a table in a readmefile
 | kwennie       | darren        | rowan  |
 | kids          |  kids         | kids   |
  
-[] unchecked
+[ ] unchecked 
 
 
 The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
