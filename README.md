@@ -48,7 +48,7 @@ $ adb devices
 
 Use the command below to connect to the specific device
 
-$ adb connect <device name> |
+$ adb connect <device name> 
 
 
 To clone the repository follow the link below:
