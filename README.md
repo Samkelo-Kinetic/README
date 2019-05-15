@@ -1,5 +1,6 @@
 # Vula Mobile Functional Testing
 # Project Scope
+
 This repository contains the test automation code for user
 interface based functional test automation. 
 In this repo you
@@ -12,6 +13,7 @@ will find:
  
 
 # Environment 
+
 |Tools                       |  Links to the download sites                                        |
 | -------------              | ---------------------------------------------                       |
 |android studio              |https://developer.android.com/studio/install                         | 
@@ -19,11 +21,12 @@ will find:
 |appium for ubuntu           |http://testingalert.com/steps-to-setup-appium-on-ubuntu/             |     
 |Python 3                    |https://realpython.com/installing-python/                            |          
 |chromedriver                |http://chromedriver.chromium.org/downloads                           |  
-|genymotion(genymotion)      |https://www.genymotion.com/fun-zone/                                 |  
+|emulator (genymotion)       |https://www.genymotion.com/fun-zone/                                 |  
 |pip3                        |https://www.shellhacks.com/python-install-pip-mac-ubuntu-centos/     |
 |pipenv                      |                                                                     |
 
 # ADB Usage
+
 Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. 
 The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device.
 It is a client-server program that includes three components.
