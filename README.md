@@ -1,10 +1,11 @@
 # Vula Mobile Functional Testing
+
 # Project Scope
 
 This repository contains the test automation code for user
 interface based functional test automation. 
-In this repo you
-will find:
+In this repo you will find:
+
 - Tools used for setting up the testing environment in both iOS and Android.
 - ADB (Android Debug Bridge) commands.
 - Git branching strategies implemented on the project.
@@ -65,6 +66,7 @@ https://bitbucket.org/kineticskunk/vula_mobile_functional_test_automation/src/ma
 - login_feature
 
 # Activate the pipenv shell
+
 install pipenv following this command
 cd into the project directory where it is cloned/downloaded then run the following command.
 $ cd vula_mobile_functional_test_automation
@@ -84,17 +86,17 @@ https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/iOS_Si
 Start the appium-server on ubuntu following the command below.
 
 $ appium 
+
 start the appium-server on MAC OS by clicking on the appium icon.
 
 # Running the tests (end to end)
+
 $ behave android_behave
 
 # Running the tests in Sequence (Individual Tests)
 
 
 1.behave android_behave/ --tags=login
-
-
 
 2.behave android_behave/ --tags=register
 
