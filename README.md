@@ -48,6 +48,7 @@ $ adb connect <device name> |
 
 
 To clone the repository follow the link below:
+
 https://bitbucket.org/kineticskunk/vula_mobile_functional_test_automation/src/master/
 
 # Branching strategies
