@@ -61,6 +61,7 @@ $ pipenv shell
 # Running the tests 
 
 Make sure emulators and simulators have started on Mac Ubuntu OS.
+
 Follow this link on how to start and choose a genymotion emulator device. 
 https://docs.genymotion.com/latest/Content/01_Get_Started/Basic_steps.htm#basic-steps
 
@@ -68,6 +69,7 @@ Follow this link on how to start and choose a simulator device.
 https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html
 
 Start the appium-server on ubuntu following the command below.
+
 $ appium 
 start the appium-server on MAC OS by clicking on the appium icon.
 
