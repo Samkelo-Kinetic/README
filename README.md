@@ -1,7 +1,8 @@
 # Vula Mobile Functional Testing
 # Project Scope
 This repository contains the test automation code for user
-interface based functional test automation. In this repo you
+interface based functional test automation. 
+In this repo you
 will find:
 - Tools used for setting up the testing environment in both iOS and Android.
 - ADB (Android Debug Bridge) commands.
@@ -25,7 +26,8 @@ will find:
 # ADB Usage
 Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. 
 The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device.
-It is a client-server program that includes three components:
+It is a client-server program that includes three components.
+
 for more on adb : https://developer.android.com/studio/command-line/adb
 
 Use the command below to kill the server
