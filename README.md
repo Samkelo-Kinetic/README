@@ -16,7 +16,7 @@ In this repo you will find:
 # Environment 
 
 |Tools                       |  Links to the download sites                                        |
-| -------------              | ---------------------------------------------                       |
+| -------------------------- | ------------------------------------------------------------------  |
 |android studio              |https://developer.android.com/studio/install                         | 
 |appium for mac              | https://www.swtestacademy.com/how-to-install-appium-on-mac/         |
 |appium for ubuntu           |http://testingalert.com/steps-to-setup-appium-on-ubuntu/             |     
@@ -74,7 +74,8 @@ cd into the project directory where it is cloned/downloaded then run the followi
 
 $ cd vula_mobile_functional_test_automation
 
-activate a pipenv shell inside the project directory with the following command.
+Activate a pipenv shell inside the project directory with the following command.
+
 $ pipenv shell
  
 # Running the tests 
