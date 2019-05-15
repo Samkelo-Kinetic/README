@@ -25,7 +25,7 @@ In this repo you will find:
 |chromedriver                |http://chromedriver.chromium.org/downloads                           |  
 |emulator (genymotion)       |https://www.genymotion.com/fun-zone/                                 |  
 |pip3                        |https://www.shellhacks.com/python-install-pip-mac-ubuntu-centos/     |
-|pipenv                      |                                                                     |
+|pipenv                      |https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies|
 
 # ADB Usage
 
