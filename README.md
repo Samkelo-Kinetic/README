@@ -32,7 +32,7 @@ Android Debug Bridge (adb) is a versatile command-line tool that lets you commun
 The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device.
 It is a client-server program that includes three components.
 
-for more on adb : https://developer.android.com/studio/command-line/adb
+For more on adb : https://developer.android.com/studio/command-line/adb
 
 Use the command below to kill the server
 
@@ -87,7 +87,7 @@ Start the appium-server on ubuntu following the command below.
 
 $ appium 
 
-start the appium-server on MAC OS by clicking on the appium icon.
+Start the appium-server on MAC OS by clicking on the appium icon.
 
 # Running the tests (end to end)
 
@@ -99,7 +99,6 @@ $ behave android_behave
 1.behave android_behave/ --tags=login
 
 2.behave android_behave/ --tags=register
-
 
 3.behave android_behave/ --tags=terms_conditions
 
