@@ -4,6 +4,7 @@
 
 This repository contains the test automation code for user
 interface based functional test automation. 
+
 In this repo you will find:
 
 - Tools used for setting up the testing environment in both iOS and Android.
@@ -27,6 +28,13 @@ In this repo you will find:
 |pipenv                      |                                                                     |
 
 # ADB Usage
+
+s { font-style: normal; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+// colors
+s { color: green }
+em { color: blue }
 
 Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. 
 The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device.
