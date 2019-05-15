@@ -1,14 +1,3 @@
-
-s { font-style: normal; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-// colors
-s { color: green }
-em { color: blue }
-
-
-
-
 # Vula Mobile Functional Testing
 
 # Project Scope
