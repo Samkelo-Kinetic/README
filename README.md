@@ -56,6 +56,7 @@ To clone the repository follow the link below:
 https://bitbucket.org/kineticskunk/vula_mobile_functional_test_automation/src/master/
 
 # Branching strategies
+
 - Master 
 - dev 
 - enhancement / feature / register
@@ -68,8 +69,11 @@ https://bitbucket.org/kineticskunk/vula_mobile_functional_test_automation/src/ma
 # Activate the pipenv shell
 
 install pipenv following this command
+
 cd into the project directory where it is cloned/downloaded then run the following command.
+
 $ cd vula_mobile_functional_test_automation
+
 activate a pipenv shell inside the project directory with the following command.
 $ pipenv shell
  
