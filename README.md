@@ -29,11 +29,15 @@ It is a client-server program that includes three components:
 for more on adb : https://developer.android.com/studio/command-line/adb
 
 Use the command below to kill the server
+
 $ adb kill-server 
+
 Use the command below to start server
 $ adb start-server
+
 Use the command below to list connected devices
 $ adb devices 
+
 Use the command below to connect to the specific device
 $ adb connect <device name> |
 
