@@ -70,6 +70,7 @@ start the appium-server on MAC OS by clicking on the appium icon.
 
 # Running the tests (end to end)
 $ behave android_behave
+
 # Running the tests in Sequence (Individual Tests)
 1.behave android_behave/ --tags=login
 2.behave android_behave/ --tags=register
