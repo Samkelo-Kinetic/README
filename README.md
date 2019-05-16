@@ -98,35 +98,27 @@ $ appium
 
 Start the appium-server on MAC OS by clicking on the appium icon.
 
-# Running the tests (end to end)
+# Running all the tests (end to end).
 
 $ behave android_behave
-
-# Running the tests in Sequence (Individual Tests)
-
-
-1.behave android_behave/ --tags=login
-
-2.behave android_behave/ --tags=register
-
-3.behave android_behave/ --tags=terms_conditions
 
 
 # Tests 
 
-|Name                        | Status     |Link to Trello Tickets |
-| -------------------------- | ---------  | ------------  |    
-|login                       |    Done    |  https://trello.com/b/jcJ4VM27/vula-mobile             |
-| register                   |   Done     |               |    
-|login and reset password    |   Not yet started|           |
-|Check menu                  |   Not yet started|           |
-|Check Patient list          | Not yet started  |           |
-| Start referral             | Not yet started|             |   
-| On call / off-duty indicator           | Not yet started |             
-|Burns referral             | Not yet started |             |            
-|Opthalmolgy referral form  | Not yet started |             |
-|Other basic forms          | Not yet started |             |
-|Backwards Compatibility    |Not yet started  |             |
+|Name                        | Status     |Link to Trello Tickets | Commands |
+| -------------------------- | ---------  | ------------  | ---------  |   
+|login                       |    Done    |  https://trello.com/b/jcJ4VM27/vula-mobile             |behave android_behave/ --tags=login 
+| register                   |   Done     |               |   behave android_behave/ --tags=register        |                    
+|terms_condition            |     Done        |               |   behave android_behave/ --tags=terms_conditions      |
+|login and reset password    |   Not yet started|           |           |
+|Check menu                  |   Not yet started|           |           |
+|Check Patient list          | Not yet started  |           |           |
+| Start referral             | Not yet started|             |           | 
+| On call / off-duty indicator           | Not yet started |            |           
+|Burns referral             | Not yet started |             |           |            
+|Opthalmolgy referral form  | Not yet started |             |           |
+|Other basic forms          | Not yet started |             |           |
+|Backwards Compatibility    |Not yet started  |             |           |
 
 # TODO 
 -Insert a table for with trello links for feature tickets.
