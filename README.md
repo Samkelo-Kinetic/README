@@ -112,7 +112,9 @@ $ behave android_behave
 3.behave android_behave/ --tags=terms_conditions
 
 
-
+# TODO 
+-insert a table for with trello links for feature tickets
+-Report generation articulation using junit
 
 
 
