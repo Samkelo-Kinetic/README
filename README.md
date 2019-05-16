@@ -1,5 +1,5 @@
 # Vula Mobile Functional Testing
-
+![N|Solid](http://www.globalafricanbusinessawards.com/wp-content/uploads/2018/06/vula-mbile.jpg)
 # Project Scope
 
 This repository contains the test automation code for user
