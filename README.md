@@ -1,5 +1,5 @@
 # Vula Mobile Functional Testing
-![N|Solid](http://www.globalafricanbusinessawards.com/wp-content/uploads/2018/06/vula-mbile.jpg)
+![|Solid](http://www.globalafricanbusinessawards.com/wp-content/uploads/2018/06/vula-mbile.jpg)
 # Project Scope
 
 This repository contains the test automation code for user
@@ -50,7 +50,7 @@ $ adb devices
 
 Use the command below to connect to the specific device
 
-$ adb connect <device name> 
+$ adb connect < device name> 
 
 
 To clone the repository follow the link below:
@@ -112,12 +112,24 @@ $ behave android_behave
 3.behave android_behave/ --tags=terms_conditions
 
 
+# Tests 
+
+|Name                        | Status     |Link to Trello Tickets |
+| -------------------------- | ---------  | ------------  |    
+|login                       |    Done    |  https://trello.com/b/jcJ4VM27/vula-mobile             |
+| register                   |   Done     |               |    
+|login and reset password    |   Not yet started|           |
+|Check menu                  |   Not yet started|           |
+|Check Patient list          | Not yet started  |           |
+| Start referral             | Not yet started|             |   
+| On call / off-duty indicator           | Not yet started |             
+|Burns referral             | Not yet started |             |            
+|Opthalmolgy referral form  | Not yet started |             |
+|Other basic forms          | Not yet started |             |
+|Backwards Compatibility    |Not yet started  |             |
+
 # TODO 
--insert a table for with trello links for feature tickets
--Report generation articulation using junit
-
-
-
-
-
-
+-Insert a table for with trello links for feature tickets.
+-Report generation articulation using junit.
+-Implement branching strategy.
+-Add more tests commands as we progress through the project.
