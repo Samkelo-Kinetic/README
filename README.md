@@ -58,6 +58,8 @@ To clone the repository follow the link below:
 https://bitbucket.org/kineticskunk/vula_mobile_functional_test_automation/src/master/
 
 # Branching strategies
+//must have a seat down with the team and formulate branching strategy as accordance to 
+the below git branches.
 
 - Master 
 - dev 
