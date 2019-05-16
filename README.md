@@ -19,7 +19,7 @@ In this repo you will find:
 |Tools                       |  Links to the download sites                                        |
 | -------------------------- | ------------------------------------------------------------------  |
 |android studio              |https://developer.android.com/studio/install                         | 
-|appium for mac              | https://www.swtestacademy.com/how-to-install-appium-on-mac/         |
+|appium for mac              |https://www.swtestacademy.com/how-to-install-appium-on-mac/          |
 |appium for ubuntu           |http://testingalert.com/steps-to-setup-appium-on-ubuntu/             |     
 |Python 3                    |https://realpython.com/installing-python/                            |          
 |chromedriver                |http://chromedriver.chromium.org/downloads                           |  
@@ -110,6 +110,9 @@ $ behave android_behave
 2.behave android_behave/ --tags=register
 
 3.behave android_behave/ --tags=terms_conditions
+
+
+
 
 
 
